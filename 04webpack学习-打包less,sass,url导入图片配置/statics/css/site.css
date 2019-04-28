@@ -1,0 +1,10 @@
+#v1{
+    border:1px solid red;
+}
+
+.bgimg{
+    width: 200px;
+    height: 400px;
+    /* background-image: url("../imgs/logo.png"); */
+    background-image: url("../imgs/big.png");
+}
